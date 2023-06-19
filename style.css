@@ -1,0 +1,24 @@
+body{
+    background-color: red;
+}
+p{
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: system-ui;
+    text-align: center;
+    text-decoration: underline;
+    color: coral;
+}
+
+h3{
+    color: aliceblue;
+}
+
+pre{
+    color: yellow;
+}
+
+b{
+    color: aliceblue;
+}
+
